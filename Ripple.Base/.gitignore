@@ -1,0 +1,10 @@
+resources/data/local-config.yml
+.build/
+.cache-loader/
+package-lock.json
+
+.DS_Store
+_package/
+node_modules/
+debug.log
+*.tmp
